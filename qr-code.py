@@ -1,4 +1,4 @@
-# Based in https://www.instagram.com/p/CC5cHl7HvgJ/
+# Inspired in https://www.instagram.com/p/CC5cHl7HvgJ/
 
 from tkinter import *
 from tkinter import messagebox
